@@ -19,7 +19,7 @@ Clipchamp: Video Editing purpose
 ✅ Project Workflow Highlights:
 1. Metadata Analysis 
 2. Understood the dataset and the client's primary questions
-3. Gathered Additional Data from https://lnkd.in/dJPbvPiC
+3. Gathered Additional Data from: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2003003
 4. Organized the raw data using Power Bi Query Editor 
 5. DAX Formulas
 6. Created insightful visualisations
@@ -30,8 +30,8 @@ Clipchamp: Video Editing purpose
 
 
 🔗 Project Links:
-Live Power Bi Project Dashboard: https://lnkd.in/d73XEnKA
-Canva Presentation: https://lnkd.in/d6R3PqQH
+Live Power Bi Project Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYWNjZDdkMDYtODhiNC00MzI2LWFhNTUtNTk4ZmIyM2UzMDhjIiwidCI6ImIzODI1NDllLTJhNTEtNGY1YS1iZjZkLThjMTQ5MGVhMTFiZiJ9
+Canva Presentation: https://www.canva.com/design/DAGPCgQwNts/klMx5r_qwIdO9eOxa5QUDA/edit?utm_content=DAGPCgQwNts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 💡Learnings: This was an incredible experience. Coming from a non-tech background and creating this presentation has not only strengthened my technical skills but also enhanced my soft skills.
