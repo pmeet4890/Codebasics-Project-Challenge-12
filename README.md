@@ -1,6 +1,6 @@
 # Codebasics-Project-Challenge-12
 
-Project Challenge 12: Indian EV🚗 Industry Analysis 
+Codebasics Project Challenge 12: Indian EV🚗 Industry Analysis 
 
 🙌 I want to extend my gratitude to Dhaval Patel, Hemanand Vadivel & the entire Codebasics team for providing such a dataset, which has been instrumental in helping students like me to gain practical exposure in Data Analytics.
 
